@@ -77,7 +77,7 @@ class Perro extends Animal {
 
 
 void main() {
-  Perro perro = Perro('fran', -2);
+  Perro perro = Perro('fran', 2);
   
   perro.comer();
 }
